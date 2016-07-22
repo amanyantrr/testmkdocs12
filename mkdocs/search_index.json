@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Vayu 2G/2GP Cape\n\n\nDescriptions\n\n\nThis M2M cape provides seamless internet connectivity to the Beaglebone via GPRS / 2G network. It also has an optional GPS add-on for location and time synchronization (1pps signal, 2 microsecond jitter accuracy). There are two variants of the cape -\n\n\nVAYU-2G\n Cape provides Dual band (EGSM 900, DCS 1800) connectivity and thus supports major GSM carriers world-over. The module supports a maximum of 85.6 kbps data rate ideally suited for low-data M2M application needs.\n\n\nVAYU-2GP\n Cape provides an add-on GPS module integrated with GPRS modem which provides standard compliant NMEA based geo-location and global time synchronization (1pps, 0.2 microsecond jitter accuracy). \n\n\nSpecifications\n\n\n\n\n\n\n\n\nElectrical Specifications\n\n\n\n\n\n\n\n\n\n\n\n\nPower\n\n\n3.3V via expansion header\n\n\n\n\n\n\n\n\n5V via expansion header\n\n\n\n\n\n\nIndicators\n\n\nyes\n\n\n\n\n\n\nConnectors\n\n\nTwo 46-position connectors\n\n\n\n\n\n\n\n\nSMA connectors for GSM and GPS antennas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMechanical Specifications\n\n\n\n\n\n\n\n\n\n\n\n\nSize\n\n\n3.40\" x 2.15\"\n\n\n\n\n\n\nLayers\n\n\n4\n\n\n\n\n\n\nPCB Thickness\n\n\n.062\"\n\n\n\n\n\n\nRoHS Compliant\n\n\nYes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGPIO Pin out\n\n\n\n\n\n\n\n\n\n\n\n\nP9.10\n\n\nBeaglebone black and Cape reset\n\n\n\n\n\n\nP9.12\n\n\nModem Reset\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nP9.19\n\n\nI2C Bus for EEPROM\n\n\n\n\n\n\nP9.20\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nP9.11\n\n\nGPS NMEA serial data port\n\n\n\n\n\n\nP9.13\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nP9.14\n\n\nGPS Module Reset\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nP9.15\n\n\n\n\n\n\n\n\nP9.16\n\n\n\n\n\n\n\n\nP9.17\n\n\nModem Serial Data Port\n\n\n\n\n\n\nP9.18\n\n\n\n\n\n\n\n\nP9.24\n\n\n\n\n\n\n\n\nP9.26\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nP8.11\n\n\nModem Power On Off\n\n\n\n\n\n\nP8.13\n\n\nModem Status\n\n\n\n\n\n\nP8.14\n\n\nModem Wakeup_in / Ring Indicator\n\n\n\n\n\n\nP8.17\n\n\nGPS Module 1 PPS Input\n\n\n\n\n\n\n\n\nEEPROM\n\n\n\n\n\n\n\n\nVayu 2G Cape\n\n\n\n\n\n\n\n\n\n\n\n\nEEPROM Suport\n\n\nYes\n\n\n\n\n\n\nBoard Name\n\n\nVayu 2G Cape\n\n\n\n\n\n\nVersion\n\n\nA\n\n\n\n\n\n\nManufacturer\n\n\nYantrr Electronic Systems\n\n\n\n\n\n\nPart Number\n\n\nVAYU-2G-A\n\n\n\n\n\n\nPins Used\n\n\n10\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVayu 2GP Cape\n\n\n\n\n\n\n\n\n\n\n\n\nEEPROM Suport\n\n\nYes\n\n\n\n\n\n\nBoard Name\n\n\nVayu 2GP Cape\n\n\n\n\n\n\nVersion\n\n\nA\n\n\n\n\n\n\nManufacturer\n\n\nYantrr Electronic Systems\n\n\n\n\n\n\nPart Number\n\n\nVAYU-2GP-A\n\n\n\n\n\n\nPins Used\n\n\n14\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDocumentations\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Source\n\n\nPartly on proven request\n\n\n\n\n\n\nSystem Reference Manual\n\n\nYes\n\n\n\n\n\n\nSchematics\n\n\nPartly on proven request\n\n\n\n\n\n\nPCB Files\n\n\nNo\n\n\n\n\n\n\nGerber Files\n\n\nNo\n\n\n\n\n\n\nBills of Materials\n\n\nNo\n\n\n\n\n\n\n\n\nVendors\n\n\nYantrr Electronic Systems\n\n\nManufacturer's Link\n\n\nFor more information about this cape, please visit \n\nYantrr Electronic Systems\n\n\nTo go back to the cape list, please click \n\nBeagleBone Capes", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#descriptions", 
+            "text": "This M2M cape provides seamless internet connectivity to the Beaglebone via GPRS / 2G network. It also has an optional GPS add-on for location and time synchronization (1pps signal, 2 microsecond jitter accuracy). There are two variants of the cape -  VAYU-2G  Cape provides Dual band (EGSM 900, DCS 1800) connectivity and thus supports major GSM carriers world-over. The module supports a maximum of 85.6 kbps data rate ideally suited for low-data M2M application needs.  VAYU-2GP  Cape provides an add-on GPS module integrated with GPRS modem which provides standard compliant NMEA based geo-location and global time synchronization (1pps, 0.2 microsecond jitter accuracy).", 
+            "title": "Descriptions"
+        }, 
+        {
+            "location": "/#specifications", 
+            "text": "Electrical Specifications       Power  3.3V via expansion header     5V via expansion header    Indicators  yes    Connectors  Two 46-position connectors     SMA connectors for GSM and GPS antennas        Mechanical Specifications       Size  3.40\" x 2.15\"    Layers  4    PCB Thickness  .062\"    RoHS Compliant  Yes        GPIO Pin out       P9.10  Beaglebone black and Cape reset    P9.12  Modem Reset        P9.19  I2C Bus for EEPROM    P9.20         P9.11  GPS NMEA serial data port    P9.13         P9.14  GPS Module Reset        P9.15     P9.16     P9.17  Modem Serial Data Port    P9.18     P9.24     P9.26         P8.11  Modem Power On Off    P8.13  Modem Status    P8.14  Modem Wakeup_in / Ring Indicator    P8.17  GPS Module 1 PPS Input", 
+            "title": "Specifications"
+        }, 
+        {
+            "location": "/#eeprom", 
+            "text": "Vayu 2G Cape       EEPROM Suport  Yes    Board Name  Vayu 2G Cape    Version  A    Manufacturer  Yantrr Electronic Systems    Part Number  VAYU-2G-A    Pins Used  10         Vayu 2GP Cape       EEPROM Suport  Yes    Board Name  Vayu 2GP Cape    Version  A    Manufacturer  Yantrr Electronic Systems    Part Number  VAYU-2GP-A    Pins Used  14         Documentations       Open Source  Partly on proven request    System Reference Manual  Yes    Schematics  Partly on proven request    PCB Files  No    Gerber Files  No    Bills of Materials  No", 
+            "title": "EEPROM"
+        }, 
+        {
+            "location": "/#vendors", 
+            "text": "Yantrr Electronic Systems", 
+            "title": "Vendors"
+        }, 
+        {
+            "location": "/#manufacturers-link", 
+            "text": "For more information about this cape, please visit  Yantrr Electronic Systems  To go back to the cape list, please click  BeagleBone Capes", 
+            "title": "Manufacturer's Link"
+        }
+    ]
+}
